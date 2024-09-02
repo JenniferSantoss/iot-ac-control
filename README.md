@@ -1,7 +1,7 @@
 ## Projeto de Extensão Estacio
 
 ### Ideia principal: 
-Desenvolver um sistema IoT para desligamento automático dos ar condicionados da Igreja Batista de Henrique Jorge, visando reduzir o gasto de energia não necessário.
+Desenvolver um sistema IoT para desligamento automático dos ar condicionados da Igreja Batista de Henrique Jorge, visando reduzir o gasto de energia não necessário, além de realizar uma análise de dados com os dados obtidos pelo sistema e propor uma melhor solução para o problema em questão.
 
 ### Detalhamento do projeto:
 Resumo do Projeto
